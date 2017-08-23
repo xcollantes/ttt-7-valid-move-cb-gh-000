@@ -5,6 +5,6 @@
 
 def position_taken?(pos)
   pos -= 1
-  
+
   if pos == 
 end
